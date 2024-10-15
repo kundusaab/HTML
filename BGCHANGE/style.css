@@ -1,0 +1,8 @@
+div{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+button{
+    padding: 5px 20px;
+}
